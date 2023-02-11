@@ -1,1 +1,8 @@
 flask
+msal
+Flask>=2
+werkzeug>=2
+
+flask-session>=0.3.2,<0.5
+requests>=2,<3
+# msal>=1.7,<2
