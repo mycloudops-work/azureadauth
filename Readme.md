@@ -50,6 +50,8 @@ $ flask --app hello --debug run
 - Flaskapp redirect - https://www.askpython.com/python-modules/flask/flask-redirect-url
 - MSAL python documentation - https://msal-python.readthedocs.io/en/latest/
 - Microsoft Identity platform code samples - https://learn.microsoft.com/en-us/azure/active-directory/develop/sample-v2-code#web-applications
+- How to Create an API Using The Flask Framework - https://nordicapis.com/how-to-create-an-api-using-the-flask-framework/
+
 
 # Issues - how to fix
 - The redirect URI specified in the request does not match - https://learn.microsoft.com/en-gb/troubleshoot/azure/active-directory/error-code-aadsts50011-redirect-uri-mismatch
