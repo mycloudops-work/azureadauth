@@ -51,7 +51,9 @@ $ flask --app hello --debug run
 - MSAL python documentation - https://msal-python.readthedocs.io/en/latest/
 - Microsoft Identity platform code samples - https://learn.microsoft.com/en-us/azure/active-directory/develop/sample-v2-code#web-applications
 - How to Create an API Using The Flask Framework - https://nordicapis.com/how-to-create-an-api-using-the-flask-framework/
-
+- API Authentication with OAuth using Azure AD - https://www.youtube.com/watch?v=59YwW8FrLm8
+- Authenticating a Flask API Using JSON Web Tokens (good python example from scratch) - https://www.youtube.com/watch?v=J5bIPtEbS0Q 
+- Creating a RESTFul API in Flask With JSON Web Token Authentication and Flask-SQLAlchemy - https://www.youtube.com/watch?v=WxGBoY5iNXY
 
 # Issues - how to fix
 - The redirect URI specified in the request does not match - https://learn.microsoft.com/en-gb/troubleshoot/azure/active-directory/error-code-aadsts50011-redirect-uri-mismatch
